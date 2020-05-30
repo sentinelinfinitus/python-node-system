@@ -9,10 +9,10 @@ demo (most demo object are callable objects)
 >> export canvas
 >> import code as canvas (someone smarter then me will have to do this)
 >> export canvas as code (i may be able to do this not sure 0_0 )
->>
+>> fences (this is where you can store nodes in a colapable canvas)
 
 module builder app
->>t his needs it's own todo list
+>> this needs it's own todo list
 
 nodes mostly ideas (there are going to be a lot)
 >> basic node(this is a template)
@@ -23,8 +23,9 @@ nodes mostly ideas (there are going to be a lot)
 >> import nodes (for importing python modules -_-)
 >> console nodes?
 >> sql nodes
->>
->>
+>> list node
+>> text node (this makes a txt file)
+>> 3d node??? (might need other things to support this)
 >>
 >>
 
