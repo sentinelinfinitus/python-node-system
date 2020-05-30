@@ -2,27 +2,27 @@ TODO (this is mostly a dream list)
 this all uses the kivy module
 
 demo (most demo object are callable objects)
->>canvas bg
->>inf size canvas
->>scalable canvas
->>saving canvas
->>export canvas
->>import code as canvas (someone smarter then me will have to do this)
->>export canvas as code (i may be able to do this not sure 0_0 )
+>> canvas bg
+>> inf size canvas
+>> scalable canvas
+>> saving canvas
+>> export canvas
+>> import code as canvas (someone smarter then me will have to do this)
+>> export canvas as code (i may be able to do this not sure 0_0 )
 >>
 
 module builder app
->>this needs it's own todo list
+>>t his needs it's own todo list
 
 nodes mostly ideas (there are going to be a lot)
->>basic node(this is a template)
->>math nodes
->>color nodes
->>preview nodes (this one is imput dependant)
->>python nodes (literlly just a module for python code)
->>import nodes (for importing python modules -_-)
->>console nodes?
->>sqlnodes
+>> basic node(this is a template)
+>> math nodes
+>> color nodes
+>> preview nodes (this one is imput dependant)
+>> python nodes (literlly just a module for python code)
+>> import nodes (for importing python modules -_-)
+>> console nodes?
+>> sql nodes
 >>
 >>
 >>
