@@ -11,7 +11,7 @@
 
 # Modeled after libxml-config.
 
-version="1.6.35"
+version="1.6.37"
 prefix="/c/gstreamer/1.0/x86"
 exec_prefix="${prefix}"
 libdir="/c/gstreamer/1.0/x86/lib"

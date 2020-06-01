@@ -11,7 +11,7 @@
 	</PropertyGroup>
 	<ItemDefinitionGroup>
 		<ClCompile>
-			<AdditionalIncludeDirectories>$(GSTREAMER_1_0_ROOT_X86)\include\pango-1.0;$(GSTREAMER_1_0_ROOT_X86)\include\fribidi;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+			<AdditionalIncludeDirectories>$(GSTREAMER_1_0_ROOT_X86)\include\fribidi;$(GSTREAMER_1_0_ROOT_X86)\include\pango-1.0;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
 		</ClCompile>
 		<Link>
 			<AdditionalLibraryDirectories>;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>

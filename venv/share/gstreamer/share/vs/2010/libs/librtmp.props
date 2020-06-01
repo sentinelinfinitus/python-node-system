@@ -16,7 +16,7 @@
 		</ClCompile>
 		<Link>
 			<AdditionalLibraryDirectories>;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
-			<AdditionalDependencies>gmp.lib;z.lib;rtmp.lib;%(AdditionalDependencies)</AdditionalDependencies>
+			<AdditionalDependencies>z.lib;rtmp.lib;gmp.lib;%(AdditionalDependencies)</AdditionalDependencies>
 		</Link>
 	</ItemDefinitionGroup>
 	<ItemGroup/>

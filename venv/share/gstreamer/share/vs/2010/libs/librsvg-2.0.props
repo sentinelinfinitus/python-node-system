@@ -17,7 +17,7 @@
 		</ClCompile>
 		<Link>
 			<AdditionalLibraryDirectories>;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
-			<AdditionalDependencies>m.lib;rsvg-2.lib;%(AdditionalDependencies)</AdditionalDependencies>
+			<AdditionalDependencies>rsvg-2.lib;m.lib;%(AdditionalDependencies)</AdditionalDependencies>
 		</Link>
 	</ItemDefinitionGroup>
 	<ItemGroup/>
