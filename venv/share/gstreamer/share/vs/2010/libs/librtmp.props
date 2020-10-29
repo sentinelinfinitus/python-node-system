@@ -1,9 +1,8 @@
 <?xml version="1.0" ?>
-<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
 	<ImportGroup Label="PropertySheets">
-		<Import Condition="$(gnutlsImported)!=true" Project="gnutls.props"/>
-		<Import Condition="$(hogweedImported)!=true" Project="hogweed.props"/>
-		<Import Condition="$(nettleImported)!=true" Project="nettle.props"/>
+		<Import Condition="$(libsslImported)!=true" Project="libssl.props"/>
+		<Import Condition="$(libcryptoImported)!=true" Project="libcrypto.props"/>
 		<Import Condition="$(CommonImported)!=true" Project="Common.props"/>
 	</ImportGroup>
 	<PropertyGroup Label="UserMacros"/>
@@ -16,7 +15,7 @@
 		</ClCompile>
 		<Link>
 			<AdditionalLibraryDirectories>;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
-			<AdditionalDependencies>z.lib;rtmp.lib;gmp.lib;%(AdditionalDependencies)</AdditionalDependencies>
+			<AdditionalDependencies>rtmp.lib;z.lib;%(AdditionalDependencies)</AdditionalDependencies>
 		</Link>
 	</ItemDefinitionGroup>
 	<ItemGroup/>

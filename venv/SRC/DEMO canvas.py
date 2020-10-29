@@ -1,10 +1,8 @@
 import kivy
 
 
-
 #class Canvas(App):
- #   def build(self):
-
+#    def build(self):
 
 if __name__ == '__main__':
     try:

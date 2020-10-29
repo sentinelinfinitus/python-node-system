@@ -5,3 +5,5 @@ SOFTWARE LICENSE COMPLIANCE.
 The libraries and binaries in this package may be used under the terms of license file(s):
 
 LGPL-2.1+.txt
+(OR)
+LICENSE-vcpkg-changes.txt

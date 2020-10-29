@@ -4,4 +4,4 @@ SOFTWARE LICENSE COMPLIANCE.
 
 The libraries and binaries in this package may be used under the terms of license file(s):
 
-LICENSE
+LICENSE.txt

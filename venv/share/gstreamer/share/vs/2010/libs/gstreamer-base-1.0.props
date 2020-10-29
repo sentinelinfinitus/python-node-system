@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
 	<ImportGroup Label="PropertySheets">
 		<Import Condition="$(gstreamer_1_0Imported)!=true" Project="gstreamer-1.0.props"/>
 		<Import Condition="$(CommonImported)!=true" Project="Common.props"/>
