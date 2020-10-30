@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cd0ce0d-42ae-4f4a-a79a-04c419e0e36b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XUJvI6r0K3bkPJ54GFCyaNLUSD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sentinel\PycharmProjects\pynodes\venv\SRC" />
+      <recent name="C:\Users\sentinel\PycharmProjects\pynodes\venv\SRC\Nodes\basic_node" />
+      <recent name="C:\Users\sentinel\PycharmProjects\pynodes\venv\SRC\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DEMO canvas" type="PythonConfigurationType" factoryName="Python">
+      <module name="pynodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/SRC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SRC/DEMO canvas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cd0ce0d-42ae-4f4a-a79a-04c419e0e36b" name="Default Changelist" comment="" />
+      <created>1573681250688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573681250688</updated>
+      <workItem from="1573681305894" duration="1671000" />
+      <workItem from="1581094976820" duration="2469000" />
+      <workItem from="1582080483887" duration="802000" />
+      <workItem from="1589924772622" duration="3905000" />
+      <workItem from="1590650159811" duration="599000" />
+      <workItem from="1590789761020" duration="891000" />
+      <workItem from="1590800085471" duration="12168000" />
+      <workItem from="1590979188082" duration="1481000" />
+      <workItem from="1590984173956" duration="7724000" />
+      <workItem from="1591001195712" duration="873000" />
+      <workItem from="1591047581718" duration="8361000" />
+      <workItem from="1592014702817" duration="599000" />
+      <workItem from="1592102547032" duration="599000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated todo list">
+      <created>1590813839529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590813839529</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated todo list&#10;added read me">
+      <created>1590817436239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590817436239</updated>
+    </task>
+    <task id="LOCAL-00003" summary="deleted rouge file">
+      <created>1590817544593</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590817544593</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed a file name and added real demo file">
+      <created>1590827529520</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590827529520</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed a file name">
+      <created>1590828718209</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590828718209</updated>
+    </task>
+    <task id="LOCAL-00006" summary="deps updated&#10;work on demo has started">
+      <created>1590989518172</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590989518173</updated>
+    </task>
+    <task id="LOCAL-00007" summary="removed unused deps">
+      <created>1590994820977</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590994820977</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated deps again">
+      <created>1591001836137</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591001836137</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fixed file location">
+      <created>1591047865574</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591047865574</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added function files">
+      <created>1591053901056</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591053901056</updated>
+    </task>
+    <task id="LOCAL-00011" summary="moved files">
+      <created>1591064227187</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591064227187</updated>
+    </task>
+    <task id="LOCAL-00012" summary="worked on some base functions">
+      <created>1591068221226</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591068221226</updated>
+    </task>
+    <task id="LOCAL-00013" summary="worked on some base functions">
+      <created>1604015331293</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604015331293</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38002000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="updated todo list" />
+    <MESSAGE value="updated todo list&#10;added read me" />
+    <MESSAGE value="deleted rouge file" />
+    <MESSAGE value="fixed a file name and added real demo file" />
+    <MESSAGE value="fixed a file name" />
+    <MESSAGE value="deps updated&#10;work on demo has started" />
+    <MESSAGE value="removed unused deps" />
+    <MESSAGE value="updated deps again" />
+    <MESSAGE value="fixed file location" />
+    <MESSAGE value="added function files" />
+    <MESSAGE value="moved files" />
+    <MESSAGE value="worked on some base functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="worked on some base functions" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2347" y="18" key="CommitChangelistDialog2" timestamp="1604015286590">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2347" y="18" key="CommitChangelistDialog2/-3840.0.1920.1040/-1920.0.1920.1080/0.0.1920.1040/1920.0.1600.900@1920.0.1600.900" timestamp="1604015286590" />
+    <state width="1579" height="235" key="GridCell.Tab.0.bottom" timestamp="1604014084481">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="235" key="GridCell.Tab.0.bottom/-3840.0.1920.1040/-1920.0.1920.1080/0.0.1920.1040/1920.0.1600.900@1920.0.1600.900" timestamp="1604014084481" />
+    <state width="1579" height="235" key="GridCell.Tab.0.center" timestamp="1604014084480">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="235" key="GridCell.Tab.0.center/-3840.0.1920.1040/-1920.0.1920.1080/0.0.1920.1040/1920.0.1600.900@1920.0.1600.900" timestamp="1604014084480" />
+    <state width="1579" height="235" key="GridCell.Tab.0.left" timestamp="1604014084480">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="235" key="GridCell.Tab.0.left/-3840.0.1920.1040/-1920.0.1920.1080/0.0.1920.1040/1920.0.1600.900@1920.0.1600.900" timestamp="1604014084480" />
+    <state width="1579" height="235" key="GridCell.Tab.0.right" timestamp="1604014084481">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="235" key="GridCell.Tab.0.right/-3840.0.1920.1040/-1920.0.1920.1080/0.0.1920.1040/1920.0.1600.900@1920.0.1600.900" timestamp="1604014084481" />
+    <state x="2221" y="95" key="SettingsEditor" timestamp="1604015115898">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2221" y="95" key="SettingsEditor/-3840.0.1920.1040/-1920.0.1920.1080/0.0.1920.1040/1920.0.1600.900@1920.0.1600.900" timestamp="1604015115898" />
+    <state x="2537" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604015042770">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2537" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-3840.0.1920.1040/-1920.0.1920.1080/0.0.1920.1040/1920.0.1600.900@1920.0.1600.900" timestamp="1604015042770" />
+  </component>
+</project>
